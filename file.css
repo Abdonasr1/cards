@@ -1,0 +1,47 @@
+
+
+*{
+    margin: 0;
+}
+body{
+    background-color: rgba(228,228,228,255);
+    text-align: center;
+}
+.title{
+    color: rgba(220,98,32,255) ;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.phot{
+    width: 7em;
+    height: 7em;
+    border-radius: 50%;
+    border: 2px solid rgba(232,191,174,255) ;
+    margin: 1em;
+}
+.card{
+    background-color: white;
+    width: 9em;
+    display: inline-block;
+    margin: .23em;
+    border-radius: 3%;
+}
+p{
+    text-align: center;
+    font-size: 10px;
+    margin: 1.5em;
+    color: #000000b9;
+    line-height: 17px;
+}
+.icons{
+    margin: 1em;
+}
+h6{
+    font-weight: bold;
+    font-size: 9px;
+}
+
+
+/* rgba(232,191,174,255) 
+rgba(220,98,32,255)
+rgba(228,228,228,255)*/
